@@ -30,3 +30,14 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 * org.Hs.eg.db (>=3.18.0)                 
 * org.Mm.eg.db (>=3.18.0)                     
 * directlabels (>=2024.1.21)                   
+
+# Citation
+
+If you use this codes in your work, please cite: https://
+
+
+# Contact information
+
+* Author: 
+* Affiliation: Department of Molecular Genetics, School of Dentistry and Dental Research Institute, Seoul National University, Seoul 08826, Republic of Korea
+* Email: carpediemwj@snu.ac.kr, kitae@snu.ac.kr
