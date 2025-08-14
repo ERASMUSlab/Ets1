@@ -15,23 +15,18 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 # Dependency
 
-* vroom_1.6.5                              
-* UpSetR_1.4.0                             
-* ATACseqQC_1.26.0                         
-* NucleoATACR_1.1                          
-* VplotR_1.12.1                            
-* TxDb.Mmusculus.UCSC.mm10.knownGene_3.10.0
-* TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2  
-* TxDb.Hsapiens.UCSC.hg38.knownGene_3.16.0 
-* GenomicFeatures_1.54.1                   
-* clusterProfiler_4.10.0                   
-* ExperimentHub_2.10.0                     
-* AnnotationHub_3.10.0                     
-* BiocFileCache_2.10.1                     
-* dbplyr_2.5.0                             
-* org.Hs.eg.db_3.18.0                      
-* org.Mm.eg.db_3.18.0                      
-* directlabels_2024.1.21                   
-* tximportData_1.30.0                      
-* rtracklayer_1.62.0                       
-* flashClust_1.01-2                  
+* vroom (>=1.6.5)                              
+* UpSetR (>=1.4.0)                             
+* ATACseqQC (>=1.26.0)                         
+* NucleoATACR (>=1.1)                          
+* VplotR (>=1.12.1)                            
+* TxDb.Mmusculus.UCSC.mm10.knownGene (>=3.10.0)
+* GenomicFeatures (>=1.54.1)                
+* clusterProfiler (>=4.10.0)                  
+* ExperimentHub (>=2.10.0)                  
+* AnnotationHub (>=3.10.0)                    
+* BiocFileCache (>=2.10.1)                    
+* dbplyr (>=2.5.0)                    
+* org.Hs.eg.db (>=3.18.0)                 
+* org.Mm.eg.db (>=3.18.0)                     
+* directlabels (>=2024.1.21)                   
