@@ -29,6 +29,9 @@ Osteogenesis is governed by the coordinated interplay between transcriptional ne
 | --- | --- | --- | 
 | Principal component analysis (PCA) of RNA-seq profiles at four time points between day 0, 4, 7 and 10. Each dot represents an individual biological replicate. | Fig. 1b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Upset plot visualizing differential gene expression profiles between consecutive time points: undifferentiated condition Day 0 to Day 4 after osteogenic induction (stage1), Day 4 to Day 7 (stage2), and Day 7 to Day 10 (stage3). DEGs were defined as those with adjusted p-value < 0.0001 and fold change 1.5. | Fig. 1c | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Overrepresentation enrichment analysis (ORA) using Gene Ontology (GO) terms was performed on DEGs identified between undifferentiated stage1, stage2 and stage3. | Fig. 1d | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Gene set enrichment analysis (GSEA) results visualizing positive enrichment (red) and negative enrichment (blue) during the differentiation phase from stage1. | Fig. 1e | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
+| Scatter plot showing concordance between histone signals and gene expression changes between day 0 and day 4. Fold changes in ChIP-seq fragment enrichment at predefined regulatory elements were compared with gene expression changes. Genes were classified as matching (green) when regulatory element activity and expression changed in the same direction, or unmatching (red) otherwise. | Fig. 1i | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
           
 
 # Citation
