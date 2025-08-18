@@ -28,6 +28,7 @@ Osteogenesis is governed by the coordinated interplay between transcriptional ne
 |  | Figures | link | 
 | --- | --- | --- | 
 | Principal component analysis (PCA) of RNA-seq profiles at four time points between day 0, 4, 7 and 10. Each dot represents an individual biological replicate. | Fig. 1b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Upset plot visualizing differential gene expression profiles between consecutive time points: undifferentiated condition Day 0 to Day 4 after osteogenic induction (stage1), Day 4 to Day 7 (stage2), and Day 7 to Day 10 (stage3). DEGs were defined as those with adjusted p-value < 0.0001 and fold change 1.5. | Fig. 1c | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
           
 
 # Citation
