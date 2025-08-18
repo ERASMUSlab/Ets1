@@ -15,23 +15,20 @@ Osteogenesis is governed by the coordinated interplay between transcriptional ne
 * scATAC-seq about osteoblast linage cell
 * Micro-C at GM, OM with 3 replicates
 
-# Dependency
+# Processed datasets
 
-* vroom (>=1.6.5)                              
-* UpSetR (>=1.4.0)                             
-* ATACseqQC (>=1.26.0)                         
-* NucleoATACR (>=1.1)                          
-* VplotR (>=1.12.1)                            
-* TxDb.Mmusculus.UCSC.mm10.knownGene (>=3.10.0)
-* GenomicFeatures (>=1.54.1)                
-* clusterProfiler (>=4.10.0)                  
-* ExperimentHub (>=2.10.0)                  
-* AnnotationHub (>=3.10.0)                    
-* BiocFileCache (>=2.10.1)                    
-* dbplyr (>=2.5.0)                    
-* org.Hs.eg.db (>=3.18.0)                 
-* org.Mm.eg.db (>=3.18.0)                     
-* directlabels (>=2024.1.21)                   
+| | link | Format | 
+| --- | --- | --- |
+| Bulk RNA-seq expression counts | [link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | txt | 
+
+# Main Figures
+
+## Figure 1
+
+|  | Figures | link | 
+| --- | --- | --- | 
+| Principal component analysis (PCA) of RNA-seq profiles at four time points between day 0, 4, 7 and 10. Each dot represents an individual biological replicate. | Fig. 1b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+          
 
 # Citation
 
