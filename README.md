@@ -5,7 +5,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 ![Alt text](./FIG/P1.png "Ets1")
 
 # Input files
-![Alt text](./FIG/P2.png "Ets1")
+![Alt text](./FIG/Ets1_2.png "Ets1")
 
 * Bulk RNA-seq at DAY0, 4, 7, 10 with 4 replicates
 > total RNA was extracted from MC3T3-E1 cells cultured under osteogenic induction conditions using the RNeasy Mini Kit (Qiagen). Only high-quality RNA samples with RNA integrity number (RIN) values above 7.0, as determined by TapeStation analysis (Agilent), were selected for library preparation. Libraries were constructed using the TruSeq Stranded mRNA Sample Prep Kit (Illumina), following poly-A mRNA enrichment with oligo-dT magnetic beads. Purified mRNAs were thermally fragmented and reverse transcribed to generate first-strand cDNA, followed by second-strand synthesis, end repair, A-tailing, adaptor ligation, and PCR amplification. Library quality was assessed by TapeStation and quantified by qPCR prior to sequencing. Paired-end sequencing was performed on either the NovaSeq or NextSeq 2000 platform (Illumina), depending on the differentiation time point.
