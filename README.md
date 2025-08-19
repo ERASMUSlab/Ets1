@@ -1,4 +1,4 @@
-# Ets1 bioinformatics analysis user codes
+<img width="468" height="19" alt="image" src="https://github.com/user-attachments/assets/04af26e7-f7ca-4a16-ad42-91d0726cac5b" /><img width="468" height="19" alt="image" src="https://github.com/user-attachments/assets/9af60928-b19d-4461-8e76-b309216efbbf" /># Ets1 bioinformatics analysis user codes
 The paper focuses on how chromatin architecture dynamics during osteoblast differentiation affect osteogenic genes, and on the mechanisms by which chromatin architecture dynamics occur in osteoblasts, and is published in AAAAA.
 
 ![Alt text](./FIG/Ets1_1.png "Ets1")
@@ -31,7 +31,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 ## Figure 1
 
-|  | Figures | link | 
+|  | Figures | Link | 
 | --- | --- | --- | 
 | Principal component analysis (PCA) of RNA-seq profiles at four time points between day 0, 4, 7 and 10. Each dot represents an individual biological replicate. | Fig. 1b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Upset plot visualizing differential gene expression profiles between consecutive time points: undifferentiated condition Day 0 to Day 4 after osteogenic induction (stage1), Day 4 to Day 7 (stage2), and Day 7 to Day 10 (stage3). DEGs were defined as those with adjusted p-value < 0.0001 and fold change 1.5. | Fig. 1c | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
@@ -42,7 +42,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 ## Figure 2
 
-| | Figures | link | 
+| | Figures | Link | 
 | --- | --- | --- | 
 | Violin plots showing the enrichment of histone activation marks (H3K27ac, H3K4me1, H3K4me3) in A and B compartments at GM and OM. Blue represents the A compartment; yellow represents the B compartment. | Fig. 2b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Micro-C interaction matrix showing changes in chromatin interactions during differentiation. Red dots indicate regions with increased interactions at OM, while blue dots indicate regions with stronger interactions at GM. | Fig. 2c | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
@@ -53,7 +53,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 ## Figure 3
 
-| | Figures | link | 
+| | Figures | Link | 
 | --- | --- | --- | 
 | Donut charts indicating the directional preference of compartment shift among osteogenic genes identified in Supplementary Figure 3B. Red indicates regions shifting toward the A compartment at stage1, while blue indicates regions shifting toward the B compartment. | Fig. 3a | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | The promoters of genes directed toward each compartment shown in Figure 3A were represented as box plots of H3K27ac levels. The left plot shows the changes in H3K27ac levels at stage 1, the middle plot shows the levels in GM, and the right plot shows the levels in OM. | Fig. 3b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
@@ -61,6 +61,26 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Hi-C interaction map and histone activation profiles for chromosome 5, which exhibited the highest frequency of A/B compartment shfifts. To investigate whether regions undergoing compartment shifts show distinct histone activation levels at GM, we visualized compartment structure using Hi-C matrices overlaid with average H3K27ac, H3K4me1, and H3K4me3 signal per bin (lower left). The top 10% and bottom 10% of active histone signals are marked in red and blue, respectively (upper right). The longest B-to-A shifted bin is highlighted in light brown and coincides with a high-activation bin, while the longest A-to-B shifted bin, shaded in sky blue, corresponds to a bin with low histone activation. | Fig. 3d | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Hi-C interaction map and histone activation profiles for chromosome 15, which exhibited the second highest frequency of A/B compartment shifts. To examine whether regions undergoing compartment shifts display distinct histone activation levels in GM, we visualized the compartment structure using Hi-C matrices overlaid with H3K27ac signals (lower left). The top 10% and bottom 10% of histone activation signals are highlighted in red and blue, respectively (upper right). The bin containing the osteogenic gene Sp7 is shaded in light brown and coincides with a highly active region, whereas the bin containing the proliferation-related gene "" is shaded in sky blue and corresponds to a region with low histone activation. The right panel shows a magnified view of the H3K27ac, H3K4me1, and H3K4me3 levels in the bins containing the osteogenic gene Sp7 and the proliferation-related gene "". | Fig. 3e | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Box plots showing histone activation levels (H3K27ac, H3K4me1, and H3K4me3) at GM across four compartment dynamics categories: A-to-A (blue), B-to-B (yellow), A-to-B (light blue), and B-to-A (light brown).| Fig. 3f | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+
+
+## Figure 4
+
+| | Figures | Link | 
+| --- | --- | --- | 
+| | Fig. 3a | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+
+
+## Figure 5
+
+| | Figures | Link | 
+| --- | --- | --- | 
+| The binding levels of p300 relative to Ets1 binding levels were represented as a line plot. The binding levels of Ets1 and p300 were divided into quartiles (Q1–Q10), and the degree of p300 enrichment was indicated by the intensity of green shading. | Fig. 5a | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| The directional changes of A/B compartments according to Ets1 and p300 binding levels were represented as a line plot. The bins of the entire chromosome were divided into quartiles (Q1–Q10) based on the binding levels of Ets1 and p300, and the compartment shift direction was plotted relative to 1. Values above 1 indicate a shift toward the A compartment, while values below 1 indicate a shift toward the B compartment. | Fig. 5b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Clustering of UMAP reveals 22 distinct compartment behavior clusters. | Fig. 5c | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| UMAP dimensionality reduction of 24,639 genomic bins based on compartment interaction changes from stage1 divided into quartiles (Q1–Q10) by compartment shift direction, coloring them to represent A/B compartment shift direction and extent. | Fig. 5d | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| The directional changes of A/B compartments in each cluster were represented as a line plot. The compartment shift direction was plotted relative to thresholds of 1.2 and 0.8. Values above 1.2 indicate clusters shifting toward the A compartment, values below 0.8 indicate clusters shifting toward the B compartment, and clusters with values between 0.8 and 1.2 were considered unchanged. | Fig. 5e | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Based on compartment interaction changes at stage 1, bins were divided into quartiles (Q1–Q10) according to the direction of compartment shifts. The distribution ratios of Q10, representing the strongest shift toward the A compartment, and Q1, representing the strongest shift toward the B compartment, were then plotted as a line graph for each cluster. | Fig. 5f | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Donut plots display Ets1 and p300 binding distributions across clusters. | Fig. 5G | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 
 
 # Citation
