@@ -36,7 +36,17 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Overrepresentation enrichment analysis (ORA) using Gene Ontology (GO) terms was performed on DEGs identified between undifferentiated stage1, stage2 and stage3. | Fig. 1d | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Gene set enrichment analysis (GSEA) results visualizing positive enrichment (red) and negative enrichment (blue) during the differentiation phase from stage1. | Fig. 1e | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
 | Scatter plot showing concordance between histone signals and gene expression changes at stage1. Fold changes in ChIP-seq fragment enrichment at predefined regulatory elements were compared with gene expression changes. Genes were classified as matching (green) when regulatory element activity and expression changed in the same direction, or unmatching (red) otherwise. | Fig. 1i | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
-          
+
+
+## Figure 2
+
+| | Figures | link | 
+| --- | --- | --- | 
+| Violin plots showing the enrichment of histone activation marks (H3K27ac, H3K4me1, H3K4me3) in A and B compartments at GM and OM. Blue represents the A compartment; yellow represents the B compartment. | Fig. 2b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Micro-C interaction matrix showing changes in chromatin interactions during differentiation. Red dots indicate regions with increased interactions at OM, while blue dots indicate regions with stronger interactions at GM. | Fig. 2c | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Donut charts showing the proportions of A (blue) and B (yellow) compartments at GM and OM. | Fig. 2d | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
+| Heatmap showing compartment dynamics at stage1, with genomic regions classified as Shift, Strength, Stable, or Subtle change. Regions were included if there was at least 50% overlap between compartments at the two time points (GM and OM). A signal increase of ≥1.5-fold at day 4 was defined as Strength, minimal change as Stable, a signal reversal with a change of ≤1.5-fold as Subtle change, and a reversal with a change of ≥1.5-fold as Shift. Blue indicates A compartments, and yellow indicates B compartments. | Fig. 2e | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
+| Gene ontology (GO) overrepresentation analysis of genes located in regions undergoing compartment switching. Each dot represents the bin containing the gene’s regulatory region, arranged by compartment signal at each time point. GO terms associated with regions shifting from B to A compartments are shown in blue (F), while those shifting from A to B compartments are shown in yellow (G). | Fig. 2f-g | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
 
 # Citation
 
