@@ -1,4 +1,4 @@
-<img width="468" height="19" alt="image" src="https://github.com/user-attachments/assets/04af26e7-f7ca-4a16-ad42-91d0726cac5b" /><img width="468" height="19" alt="image" src="https://github.com/user-attachments/assets/9af60928-b19d-4461-8e76-b309216efbbf" /># Ets1 bioinformatics analysis user codes
+# Ets1 bioinformatics analysis user codes
 The paper focuses on how chromatin architecture dynamics during osteoblast differentiation affect osteogenic genes, and on the mechanisms by which chromatin architecture dynamics occur in osteoblasts, and is published in AAAAA.
 
 ![Alt text](./FIG/Ets1_1.png "Ets1")
