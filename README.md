@@ -83,6 +83,15 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Donut plots display Ets1 and p300 binding distributions across clusters. | Fig. 5G | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 
 
+## Figure 7
+
+| | Figures | Link | 
+| --- | --- | --- | 
+| Cell type annotation of primary osteoblast populations based on scATAC-seq chromatin accessibility profiles. | Fig. 7e | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Pseudotime trajectory analysis ordering cells along a differentiation continuum from early progenitors (pseudotime = 0) to terminally differentiated osteoblasts (pseudotime > 10). | Fig. 7f | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+| Gene activity score plots showing peak chromatin accessibility at bone marker gene loci Sp7 and Ibsp, predominantly in pre-osteoblast clusters. | Fig. 7g-h | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
+
+
 # Citation
 
 If you use this codes in your work, please cite: https://
