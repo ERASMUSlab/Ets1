@@ -19,11 +19,13 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 * Micro-C at GM, OM with 3 replicates
 > Micro-C libraries were generated using the Dovetail™ Micro-C Kit (Dovetail Genomics, Scotts Valley, CA, USA) according to the manufacturer&#39;s protocol. Briefly, MC3T3-E1 cells were subjected to sequential cross-linking with disuccinimidyl glutarate (DSG) and formaldehyde to preserve chromatin architecture. Following cross-linking, nuclei were isolated and chromatin was digested with micrococcal nuclease (MNase) to achieve predominantly fragments. Proximity ligation of digested chromatin fragments was then performed, and cross-links were subsequently reversed. Purified DNA was used for library preparation, including end repair, adaptor ligation, and limited-cycle PCR amplification. Final libraries were size- selected to enrich for fragments between 350 bp and 1 kb. Library quality and concentration were assessed using a TapeStation system (Agilent Technologies) and a Qubit Fluorometer (Thermo Fisher Scientific). Sequencing was carried out at Macrogen (Seoul, Republic of Korea) using the Illumina HiSeq X Ten platform to generate 150 bp paired-end reads.
 
+
 # Processed datasets
 
 | | Figures | Format | link | 
 | --- | --- | --- | --- |
 | Bulk RNA-seq expression counts | Fig. 1 | txt | [link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
+
 
 # Main Figures
 
