@@ -31,6 +31,8 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 ## Figure 1
 
+![Alt text](./FIG/FIG1.png "FIG1")
+
 |  | Figures | Link | 
 | --- | --- | --- | 
 | Principal component analysis (PCA) of RNA-seq profiles at four time points between day 0, 4, 7 and 10. Each dot represents an individual biological replicate. | Fig. 1b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
