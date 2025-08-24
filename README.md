@@ -24,7 +24,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 | | Figures | Format | link | 
 | --- | --- | --- | --- |
-| Bulk RNA-seq expression counts | Fig. 1 | txt | [link](./ProcessedData/Bulk_RNAseq_expression_counts.txt) |
+| Bulk RNA-seq expression counts | Fig. 1b | txt | [link](./ProcessedData/Bulk_RNAseq_expression_counts.txt) |
 
 
 # Main Figures
