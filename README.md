@@ -45,6 +45,8 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 ## Figure 2
 
+![Alt text](./FIG/FIG2.png "FIG2")
+
 | | Figures | Link | 
 | --- | --- | --- | 
 | Violin plots showing the enrichment of histone activation marks (H3K27ac, H3K4me1, H3K4me3) in A and B compartments at GM and OM. Blue represents the A compartment; yellow represents the B compartment. | Fig. 2b | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
@@ -56,6 +58,8 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 
 ## Figure 3
+
+![Alt text](./FIG/FIG3.png "FIG3")
 
 | | Figures | Link | 
 | --- | --- | --- | 
@@ -69,6 +73,8 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 ## Figure 4
 
+![Alt text](./FIG/FIG4.png "FIG4")
+
 | | Figures | Link | 
 | --- | --- | --- | 
 | To identify pioneer factors, transcription factors (TFs) that bind to regions undergoing compartment shifts during differentiation were selected, and the binding regions of these TFs were visualized as a heatmap. For chromatin accessibility, the accessibility levels of TF binding regions were shown separately for the GM and OM stages. For TFBS (transcription factor binding sites), the data were divided into A-to-B and B-to-A regions. Based on chromatin accessibility and TFBS data, four TF sets were defined: Sets 1 and 2 include TFs that increase chromatin accessibility, while Sets 3 and 4 consist of TFs that maintain accessibility. Additionally, Sets 1 and 3 are composed of TFs that bind more frequently to B-to-A regions than A-to-B, whereas Sets 2 and 4 include TFs that preferentially bind to A-to-B regions. | Fig. 4a | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
@@ -78,6 +84,8 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 
 ## Figure 5
+
+![Alt text](./FIG/FIG5.png "FIG5")
 
 | | Figures | Link | 
 | --- | --- | --- | 
