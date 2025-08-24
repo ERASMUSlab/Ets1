@@ -24,7 +24,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 | | Figures | Format | link | 
 | --- | --- | --- | --- |
-| Bulk RNA-seq expression counts | Fig. 1 | txt | [link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
+| Bulk RNA-seq expression counts | Fig. 1 | txt | [link](blob:https://github.com/893b81aa-494d-4997-a1dd-c3bf3c8084e4) |
 
 
 # Main Figures
@@ -35,7 +35,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 |  | Figures | Link | 
 | --- | --- | --- | 
-| Principal component analysis (PCA) of RNA-seq profiles at four time points between day 0, 4, 7 and 10. Each dot represents an individual biological replicate. | Fig. 1b | [Link](http://147.47.56.90:8895/Ets1/Ets1_FIG1B/) | 
+| Principal component analysis (PCA) of RNA-seq profiles at four time points between day 0, 4, 7 and 10. Each dot represents an individual biological replicate. | Fig. 1b | [Link](./ProcessedData/Bulk_RNAseq_expression_counts.txt) | 
 | Upset plot visualizing differential gene expression profiles between consecutive time points: undifferentiated condition Day 0 to Day 4 after osteogenic induction (stage1), Day 4 to Day 7 (stage2), and Day 7 to Day 10 (stage3). DEGs were defined as those with adjusted p-value < 0.0001 and fold change 1.5. | Fig. 1c | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Overrepresentation enrichment analysis (ORA) using Gene Ontology (GO) terms was performed on DEGs identified between undifferentiated stage1, stage2 and stage3. | Fig. 1d | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 | Gene set enrichment analysis (GSEA) results visualizing positive enrichment (red) and negative enrichment (blue) during the differentiation phase from stage1. | Fig. 1e | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) |
