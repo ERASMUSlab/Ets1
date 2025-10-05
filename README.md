@@ -29,6 +29,12 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Bulk RNA-seq Stage1 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage1_DEAdata.txt) |
 | Bulk RNA-seq Stage2 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage2_DEAdata.txt) |
 | Bulk RNA-seq Stage3 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage3_DEAdata.txt) |
+| Bulk RNA-seq Stage1 UP reg. GO data  | Fig. 1d | txt | [link](./ProcessedData/Stage1_DEG_UP_GO.txt) |
+| Bulk RNA-seq Stage2 UP reg. GO data  | Fig. 1d | txt | [link](./ProcessedData/Stage2_DEG_UP_GO.txt) |
+| Bulk RNA-seq Stage3 UP reg. GO data  | Fig. 1d | txt | [link](./ProcessedData/Stage3_DEG_UP_GO.txt) |
+
+
+Stage1_DEG_UP_GO.txt
 
 # Main Figures
 
