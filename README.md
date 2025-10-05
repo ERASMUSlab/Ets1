@@ -136,6 +136,6 @@ If you use this codes in your work, please cite: https://
 
 # Contact information
 
-* Author: 
+* Author: Jae-I Moon*, Seung Gwa Park*, Wenyue Yu, Dongkyu Lee, Sehwan Ahn, Heein Yoon, Young-Dan Cho, Kyung-Mi Woo, Andre J. van Wijnen, Ki Tae Kim†, Woo-Jin Kim†, Hyun-Mo Ryoo†
 * Affiliation: Department of Molecular Genetics, School of Dentistry and Dental Research Institute, Seoul National University, Seoul 08826, Republic of Korea
 * Email: carpediemwj@snu.ac.kr, kitae@snu.ac.kr
