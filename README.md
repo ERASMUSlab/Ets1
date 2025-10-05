@@ -41,6 +41,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | A/B Compartment Distribution Dynamics region data at Stage1  | Fig. 2d | txt | [link](./ProcessedData/ABcompartmentDATA.txt) |
 | A/B Compartment Distribution Dynamics signal data at Stage1  | Fig. 2e | txt | [link](./ProcessedData/ABcompartment_100kbDATA.txt) |
 | Shifted A/B Compartment signal data at Stage1  | Fig. 2f-g | txt | [link](./ProcessedData/ShiftCOMP_100kbDATA.txt) |
+| Histone modification signal & A/B Compartment signal data at Gene Cis-Regulatory Element | Fig. 3a | txt | [link](./ProcessedData/GENE_to_EpiSignal.txt) |
 
 # Main Figures
 
