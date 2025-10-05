@@ -38,14 +38,15 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Histone modification signal at A/B compartment | Fig. 2b | txt | [link](./ProcessedData/Histone_MicroC.txt) |
 | Upper Interaction Matrix at GM | Fig. 2c | txt | [link](https://drive.google.com/file/d/1PCqqCcIA2K6pkL8bQP00zxnn4IVXzl_b/view?usp=sharing) |
 | Upper Interaction Matrix at OM | Fig. 2c | txt | [link](https://drive.google.com/file/d/1huCh0ALfLX_u-VRRZR4MVB2PnsH2xcFA/view?usp=sharing) |
-| A/B Compartment Distribution Dynamics region data at Stage1  | Fig. 2d | txt | [link](./ProcessedData/ABcompartmentDATA.txt) |
-| A/B Compartment Distribution Dynamics signal data at Stage1  | Fig. 2e | txt | [link](./ProcessedData/ABcompartment_100kbDATA.txt) |
+| A/B Compartment Dynamics region data at Stage1  | Fig. 2d | txt | [link](./ProcessedData/ABcompartmentDATA.txt) |
+| A/B Compartment Dynamics signal data at Stage1  | Fig. 2e | txt | [link](./ProcessedData/ABcompartment_100kbDATA.txt) |
 | Shifted A/B Compartment signal data at Stage1  | Fig. 2f-g | txt | [link](./ProcessedData/ShiftCOMP_100kbDATA.txt) |
 | Histone modification signal & A/B Compartment signal data at Gene Cis-Regulatory Element | Fig. 3a, 3b-c | txt | [link](./ProcessedData/GENE_to_EpiSignal.txt) |
 | ChIP-seq Histone modification (H3K27ac/H3K4me1/H3K4me3) fragment at GM | Fig. 3d, 3e | bedpe | [link](https://drive.google.com/file/d/17VHM6zn2KZpZ-z1yD-0CnDx0SDDMZpEJ/view?usp=sharing) |
 | ChIP-seq Histone modification (H3K27ac) fragment at GM | Fig. 3d, 3e | bedpe | [link](https://drive.google.com/file/d/1acGkrHs_ndB0XZmONdQwAWsn6A9H_Viy/view?usp=sharing) |
 | ChIP-seq Histone modification (H3K4me1) fragment at GM | Fig. 3d, 3e | bedpe | [link](https://drive.google.com/file/d/1HsxyS659Mam98V5BayAWM9aTzfVyfKWV/view?usp=sharing) |
 | ChIP-seq Histone modification (H3K4me3) fragment at GM | Fig. 3d, 3e | bedpe | [link](https://drive.google.com/file/d/1UMB6fz9tppBMFSWZbbd_JHGB8FjWRIGi/view?usp=sharing) |
+| Histone modification signal with A/B Compartment Dynamics at GM  | Fig. 3f | txt | [link](./ProcessedData/Compartment_HistoneLevel.txt) |
 
 # Main Figures
 
