@@ -36,8 +36,8 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | mm10 ref. Enhancer Database  | Fig. 1e | txt | [link](./ProcessedData/mm10_enhancer_DB.txt) |
 | mm10 ref. Cis-Regulatory Element ChIP&RNA Database  | Fig. 1i | txt | [link](./ProcessedData/mm10_CRE_ChIP_RNA_DB.txt) |
 | Histone modification signal at A/B compartment | Fig. 2b | txt | [link](./ProcessedData/Histone_MicroC.txt) |
-| Upper Interaction Matrix at GM | Fig. 2c | txt | [link](./) |
-| Upper Interaction Matrix at OM | Fig. 2c | txt | [link](./) |
+| Upper Interaction Matrix at GM | Fig. 2c | txt | [link](https://drive.google.com/file/d/1PCqqCcIA2K6pkL8bQP00zxnn4IVXzl_b/view?usp=sharing) |
+| Upper Interaction Matrix at OM | Fig. 2c | txt | [link](https://drive.google.com/file/d/1huCh0ALfLX_u-VRRZR4MVB2PnsH2xcFA/view?usp=sharing) |
 | A/B Compartment Distribution Dynamics region data at Stage1  | Fig. 2d | txt | [link](./ProcessedData/ABcompartmentDATA.txt) |
 | A/B Compartment Distribution Dynamics signal data at Stage1  | Fig. 2e | txt | [link](./ProcessedData/ABcompartment_100kbDATA.txt) |
 | Shifted A/B Compartment signal data at Stage1  | Fig. 2f-g | txt | [link](./ProcessedData/ShiftCOMP_100kbDATA.txt) |
