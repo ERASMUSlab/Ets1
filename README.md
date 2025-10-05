@@ -26,7 +26,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | | Figures | Format | link | 
 | --- | --- | --- | --- |
 | Bulk RNA-seq expression counts | Fig. 1b | txt | [link](./ProcessedData/Bulk_RNAseq_expression_counts.txt) |
-| Bulk RNA-seq Stage1 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage1_DEAdata.txt) |
+| Bulk RNA-seq Stage1 DEA data  | Fig. 1c, 2f-g | txt | [link](./ProcessedData/Stage1_DEAdata.txt) |
 | Bulk RNA-seq Stage2 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage2_DEAdata.txt) |
 | Bulk RNA-seq Stage3 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage3_DEAdata.txt) |
 | Bulk RNA-seq Stage1 UP reg. GO data  | Fig. 1d | txt | [link](./ProcessedData/Stage1_DEG_UP_GO.txt) |
@@ -40,6 +40,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Upper Interaction Matrix at OM | Fig. 2c | txt | [link](./) |
 | A/B Compartment Distribution Dynamics region data at Stage1  | Fig. 2d | txt | [link](./ProcessedData/ABcompartmentDATA.txt) |
 | A/B Compartment Distribution Dynamics signal data at Stage1  | Fig. 2e | txt | [link](./ProcessedData/ABcompartment_100kbDATA.txt) |
+| Shifted A/B Compartment signal data at Stage1  | Fig. 2f-g | txt | [link](./ProcessedData/ShiftCOMP_100kbDATA.txt) |
 
 # Main Figures
 
