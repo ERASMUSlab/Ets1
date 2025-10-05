@@ -42,6 +42,10 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | A/B Compartment Distribution Dynamics signal data at Stage1  | Fig. 2e | txt | [link](./ProcessedData/ABcompartment_100kbDATA.txt) |
 | Shifted A/B Compartment signal data at Stage1  | Fig. 2f-g | txt | [link](./ProcessedData/ShiftCOMP_100kbDATA.txt) |
 | Histone modification signal & A/B Compartment signal data at Gene Cis-Regulatory Element | Fig. 3a, 3b-c | txt | [link](./ProcessedData/GENE_to_EpiSignal.txt) |
+| ChIP-seq Histone modification (H3K27ac/H3K4me1/H3K4me3) fragment at GM | Fig. 3d | bedpe | [link](https://drive.google.com/file/d/17VHM6zn2KZpZ-z1yD-0CnDx0SDDMZpEJ/view?usp=sharing) |
+| ChIP-seq Histone modification (H3K27ac) fragment at GM | Fig. 3d | bedpe | [link](https://drive.google.com/file/d/1acGkrHs_ndB0XZmONdQwAWsn6A9H_Viy/view?usp=sharing) |
+| ChIP-seq Histone modification (H3K4me1) fragment at GM | Fig. 3d | bedpe | [link](https://drive.google.com/file/d/1HsxyS659Mam98V5BayAWM9aTzfVyfKWV/view?usp=sharing) |
+| ChIP-seq Histone modification (H3K4me3) fragment at GM | Fig. 3d | bedpe | [link](https://drive.google.com/file/d/1UMB6fz9tppBMFSWZbbd_JHGB8FjWRIGi/view?usp=sharing) |
 
 # Main Figures
 
