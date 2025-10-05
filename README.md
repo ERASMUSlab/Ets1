@@ -38,7 +38,8 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Histone modification signal at A/B compartment | Fig. 2b | txt | [link](./ProcessedData/Histone_MicroC.txt) |
 | Upper Interaction Matrix at GM | Fig. 2c | txt | [link](./) |
 | Upper Interaction Matrix at OM | Fig. 2c | txt | [link](./) |
-| A/B Compartment Distribution Dynamics data at Stage1  | Fig. 2d | txt | [link](./ProcessedData/ABcompartmentDATA.txt) |
+| A/B Compartment Distribution Dynamics region data at Stage1  | Fig. 2d | txt | [link](./ProcessedData/ABcompartmentDATA.txt) |
+| A/B Compartment Distribution Dynamics signal data at Stage1  | Fig. 2e | txt | [link](./ProcessedData/ABcompartment_100kbDATA.txt) |
 
 # Main Figures
 
