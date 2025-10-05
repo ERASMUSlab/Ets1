@@ -120,15 +120,6 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | The genomic regions surrounding genes within the clusters shown in Figure 5G were visualized along with A/B compartment signals, Ets1 binding levels, p300 binding levels, and H3K27ac levels. Panel (H) displays the regions surrounding Tcf21 from Cluster 14 and Sod2 from Cluster 16, while panel (I) shows the regions surrounding Rrm2 from Cluster 9 and Usp1 from Cluster 13. In the A/B compartment signal track, yellow represents the B compartment and blue indicates the A compartment. For histone and transcription factor signals, dark red represents Ets1 binding levels, magenta indicates p300 binding levels, and pink represents H3K27ac levels. | Fig. 5h-i | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
 
 
-## Figure 7
-
-| | Figures | Link | 
-| --- | --- | --- | 
-| Cell type annotation of primary osteoblast populations based on scATAC-seq chromatin accessibility profiles. | Fig. 7f | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
-| Pseudotime trajectory analysis ordering cells along a differentiation continuum from early progenitors (pseudotime = 0) to terminally differentiated osteoblasts (pseudotime > 10). | Fig. 7g | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
-| Based on the cell annotations in Figure 7F, chromatin accessibility and Ets1 binding levels were visualized for each cell type. The analyzed gene loci are Sp7 (H) and Ibsp (I). | Fig. 7h-i | [Link](http://147.47.56.90:8895/Ets1/4DN_official_202508/) | 
-
-
 # Citation
 
 If you use this codes in your work, please cite: https://
