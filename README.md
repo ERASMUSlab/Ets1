@@ -35,6 +35,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | mm10 ref. Promoter 2kb Database  | Fig. 1e | txt | [link](./ProcessedData/mm10_promoter_2kb_DB.txt) |
 | mm10 ref. Enhancer Database  | Fig. 1e | txt | [link](./ProcessedData/mm10_enhancer_DB.txt) |
 | mm10 ref. Cis-Regulatory Element ChIP&RNA Database  | Fig. 1i | txt | [link](./ProcessedData/mm10_CRE_ChIP_RNA_DB.txt) |
+| Histone modification signal at A/B compartment | Fig. 2b | txt | [link](./ProcessedData/Histone_MicroC.txt) |
 
 
 # Main Figures
