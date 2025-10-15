@@ -56,6 +56,10 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | Ets1 binding region at GM NOR  | Fig. 4c | txt | [link](./ProcessedData/DAY0_NOR_Ets1.txt) |
 | GM Vplot matrix at GM NOR  | Fig. 4c | Mat | [link](./ProcessedData/DAY0_NOR_Ets1_50_800_300_10_5_V.Mat) |
 | OM Vplot matrix at GM NOR  | Fig. 4c | Mat | [link](./ProcessedData/DAY4_NOR_Ets1_50_800_300_10_5_V.Mat) |
+| Ets1 & p300 Enriched data at A/B Compartment 100Kb bin | Fig. 5a, 5b | txt | [link](./ProcessedData/Ets1_p300_binDATA.txt) |
+| Difference Interation Matrix at Stage1 | Fig. 5c-d | txt | [link](https://drive.google.com/file/d/1fDwAz7o60l_mFZdNwW6S1IgV8i4mdrm5/view?usp=sharing) |
+| Ets1 & p300 Enriched data at A/B Compartment bin | Fig. 5c-d | txt | [link](https://drive.google.com/file/d/1w9KxIH0RSnJkEEaPqR8RyN-tjnpRTcT0/view?usp=sharing) |
+| UMAP Processed data | Fig. 5c-d, 5e, 5f, 5g | txt | [link](./ProcessedData/UMAP_DIFF_correlation_50_2_1_1.txt) |
 
 # Main Figures
 
