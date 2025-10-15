@@ -51,6 +51,11 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | TF Binding Score Change about TF binding region at Stage1  | Fig. 4a | txt | [link](./ProcessedData/Diff_TFBS_TF_Full_data.txt) |
 | Chromatin Accessibility Count Matrix about TF binding region at Stage1  | Fig. 4a, 4b | txt | [link](./ProcessedData/Access_TF_count_data.txt) |
 | TF Binding Score Count Matrix about TF binding region at Stage1  | Fig. 4a, 4b | txt | [link](./ProcessedData/TFBS_TF_count_data.txt) |
+| ATAC processed BAM file at GM  | Fig. 4c | txt | [link](https://drive.google.com/file/d/1gTJ3CrBroKLe0L6Hcq5Ix4Rvs5sQAUx6/view?usp=sharing) |
+| ATAC processed BAM file at OM  | Fig. 4c | txt | [link](https://drive.google.com/file/d/1X_LJoLNjlwGVJfRc7VHGzbzRb1d2NDrB/view?usp=sharing) |
+| Ets1 binding region at GM NOR  | Fig. 4c | txt | [link](./ProcessedData/DAY0_NOR_Ets1.txt) |
+| GM Vplot matrix at GM NOR  | Fig. 4c | txt | [link](./ProcessedData/DAY0_NOR_Ets1_50_800_300_10_5_V.Mat) |
+| OM Vplot matrix at GM NOR  | Fig. 4c | txt | [link](./ProcessedData/DAY4_NOR_Ets1_50_800_300_10_5_V.Mat) |
 
 # Main Figures
 
