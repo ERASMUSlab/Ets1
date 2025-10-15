@@ -25,7 +25,7 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 
 | | Figures | Format | link | 
 | --- | --- | --- | --- |
-| Bulk RNA-seq expression counts | Fig. 1b | txt | [link](./ProcessedData/Bulk_RNAseq_expression_counts.txt) |
+| Bulk RNA-seq expression counts | Fig. 1b, 4b | txt | [link](./ProcessedData/Bulk_RNAseq_expression_counts.txt) |
 | Bulk RNA-seq Stage1 DEA data  | Fig. 1c, 2f-g | txt | [link](./ProcessedData/Stage1_DEAdata.txt) |
 | Bulk RNA-seq Stage2 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage2_DEAdata.txt) |
 | Bulk RNA-seq Stage3 DEA data  | Fig. 1c | txt | [link](./ProcessedData/Stage3_DEAdata.txt) |
@@ -47,6 +47,10 @@ The paper focuses on how chromatin architecture dynamics during osteoblast diffe
 | ChIP-seq Histone modification (H3K4me1) fragment at GM | Fig. 3d, 3e | bedpe | [link](https://drive.google.com/file/d/1HsxyS659Mam98V5BayAWM9aTzfVyfKWV/view?usp=sharing) |
 | ChIP-seq Histone modification (H3K4me3) fragment at GM | Fig. 3d, 3e | bedpe | [link](https://drive.google.com/file/d/1UMB6fz9tppBMFSWZbbd_JHGB8FjWRIGi/view?usp=sharing) |
 | Histone modification signal with A/B Compartment Dynamics at GM  | Fig. 3f | txt | [link](./ProcessedData/Compartment_HistoneLevel.txt) |
+| Chromatin Accessibility Change about TF binding region at Stage1  | Fig. 4a | txt | [link](./ProcessedData/Diff_Access_TF_Full_data.txt) |
+| TF Binding Score Change about TF binding region at Stage1  | Fig. 4a | txt | [link](./ProcessedData/Diff_TFBS_TF_Full_data.txt) |
+| Chromatin Accessibility Count Matrix about TF binding region at Stage1  | Fig. 4a, 4b | txt | [link](./ProcessedData/Access_TF_count_data.txt) |
+| TF Binding Score Count Matrix about TF binding region at Stage1  | Fig. 4a, 4b | txt | [link](./ProcessedData/TFBS_TF_count_data.txt) |
 
 # Main Figures
 
